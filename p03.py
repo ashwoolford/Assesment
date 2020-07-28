@@ -21,7 +21,7 @@ where n is number of nodes of the tree
 * and Space complexity of storing values to Stack is propotional to height of the tree 
 in worst case so we can consider O(h)
 
--> Overall Space complexity of this problem is O(n) in worst case
+-> Overall Space complexity of this problem is O(n)
 
 
 '''
